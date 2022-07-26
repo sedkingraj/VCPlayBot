@@ -3,15 +3,15 @@ The easiest way to deploy this Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-- Support Channel :- [Awesome Bot](http://t.me/LaylaList)
+- Support Channel :- [Awesome Bot](https://t.me/G_B_DP)
 
-- Support Group :- [Awesome Support](http://t.me/AwesomeSupport)
+- Support Group :- [Awesome Support](https://t.me/hindi_chat_dear_zindagi)
 
 
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @QueenArzoo
+(C) @sedkingraj
 
 ```
 
