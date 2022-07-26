@@ -11,7 +11,7 @@ The easiest way to deploy this Bot
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @sedkingraj
+(C) https://github.com/sedkingraj/VCPlayBot
 
 ```
 
